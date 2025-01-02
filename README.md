@@ -31,7 +31,7 @@ Demand for electric bikes (58% of trips) currently exceeds their representation 
 
 Breaking down total monthly ridership by passholder type reveals that the seasonal trend in ridership is largely driven by monthly and day passholders rather than annual passholders. This can be attributed to the fact that annual passholders primarily rely on Indego for transportation purposes, as they take about a quarter of the round trips that day passholders do. Day passholders account for the largest share of round trips at 19.4%, followed by monthly passholders at 7.8% and annual passholders at 4.4%.
 
-https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/philadelphia-s-parks-trails-attract-the-highest-share-of-out-and-back-recreational-indego-bike-riders.png
+![Parks & Trails](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/philadelphia-s-parks-trails-attract-the-highest-share-of-out-and-back-recreational-indego-bike-riders.png)
 
 Ten of the top 14 stations with the highest percentage of trips starting and ending at the same location are situated near or within Philadelphia’s parks and trails. For example, the Manayunk Bridge station, located along the Cynwyd Heritage Trail and near the Schuylkill River Trail, sees 64.4% of trips both starting and ending at the station, rather than concluding at another location.
 
