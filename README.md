@@ -70,7 +70,7 @@ As Indego expands, these insights and recommendations can guide both strategic i
 - Datawrapper & Excel: Used for data visualization and organization of SQL outputs
 
 ### Ridership Time Series Forecast
-![Forecast](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/Forecast.png)
+![Forecast](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/prophet_forecast.png)
 
 Monthly and yearly totals of the daily ridership outputs from the forecasting model were used to develop the data visualizations throughout the report.
 
