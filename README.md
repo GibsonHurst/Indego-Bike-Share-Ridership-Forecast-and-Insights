@@ -7,6 +7,8 @@ This project examines Indego bike share data from approximately 6 million trips 
 
 For details on the methodology, including data structure, tools, and forecasting approaches, refer to the technical notes section at the end of this report.
 
+![Stock photo](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/stock_photo.jpg)
+
 ## Quick Statistics
 - Average daily ridership in past 12 months was 3,396 trips
 - A typical trip lasts 10 minutes with a distance(geodesic) of 1.16 miles
@@ -14,21 +16,26 @@ For details on the methodology, including data structure, tools, and forecasting
 - In the past 12 months, on average each bike has been taken on 392 trips and of these bikes 50% are classic and 50% are electric assisted
 
 ## Key Insights & Recommendations
+![Yearly total forecast](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/indego-ridership-forecasted-to-hit-new-records-in-2024-2025.png)
 
 Total annual ridership has grown each year since 2018, with the exception of 2020 due to reduced springtime ridership during the COVID-19 lockdowns. Indego is set to conclude 2024 with record ridership of 1.29 million trips, followed by a forecasted 1.50 million trips in 2025. The average annual ridership growth rate is 14.3%.
 
+![Monthly total forecast](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/indego-monthly-total-ridership-follows-a-strong-seasonal-pattern-with-riders-avoiding-the-cold.png)
 A strong relationship (r = 0.73) exists between daily high temperature and ridership, helping to explain the pronounced seasonal patterns observed each year. The share of round trips—trips that start and end at the same station—is highest in the summer, likely due to increased recreational use of the bike share system in warmer weather.
 
 Notably, the share of round trips reached a record high of 30.8% on May 4, 2020, during the COVID-19 lockdowns, roughly five times the normal levels, as Philadelphians sought outdoor recreation during those challenging times.
 
 **Recommendation #1:**  Overall ridership, including round-trip ridership associated with recreational use, is lowest during the winter months. It is recommended to offer a discount on monthly and annual memberships during the week encompassing New Year’s Day. This promotion would align with the holiday season, when many Philadelphians set fitness goals for the new year and could incentivize increased recreational use of the system.
 
+![Average ridership](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/average-hourly-indego-ridership-peaks-during-the-evening-commute-with-fewer-riders-on-the-weekend.png)
 **Recommendation #2:**  Average ridership is lowest at night, on weekends, and during winter months. Therefore, it is recommended that bike and station maintenance be scheduled during these times to minimize system interruptions and disruptions to essential commuter activity.
 
+![Supply & demand](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/demand-for-indego-electric-assist-bikes-continues-to-grow-as-supply-growth-stalls.png)
 Demand for electric bikes (58% of trips) currently exceeds their representation within the system (50% of bikes). Over the past three years, demand has grown while supply has remained constant. Therefore, steps should be taken to better balance demand between electric and classic bikes, improving system efficiency.
 
 **Recommendation #3:**  Currently, Indego members are charged an additional 20 cents per minute when riding an electric bike. One option is to increase the price of electric bike usage. Another option is to increase the number of electric bikes within the system. If implemented together, the increased revenue from electric bike fees could help offset the investment in additional electric bikes.
 
+![Ridership by passholder type](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/Annual-passholders-represent-an-increasing-segment-of-the-most-consistent-riders.png)
 Breaking down total monthly ridership by passholder type reveals that the seasonal trend in ridership is largely driven by monthly and day passholders rather than annual passholders. This can be attributed to the fact that annual passholders primarily rely on Indego for transportation purposes, as they take about a quarter of the round trips that day passholders do. Day passholders account for the largest share of round trips at 19.4%, followed by monthly passholders at 7.8% and annual passholders at 4.4%.
 
 ![Parks & Trails](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/philadelphia-s-parks-trails-attract-the-highest-share-of-out-and-back-recreational-indego-bike-riders.png)
@@ -63,6 +70,7 @@ As Indego expands, these insights and recommendations can guide both strategic i
 - Datawrapper & Excel: Used for data visualization and organization of SQL outputs
 
 ### Ridership Time Series Forecast
+![Forecast](https://github.com/GibsonHurst/Indego-Bike-Share-Ridership-Forecast-and-Insights/blob/main/Forecast.png)
 
 Monthly and yearly totals of the daily ridership outputs from the forecasting model were used to develop the data visualizations throughout the report.
 
