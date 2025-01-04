@@ -1,4 +1,4 @@
-# Indego Bike Share Ridership Insights & Forecast
+# Indego Bike Share Ridership Forecast & Insights
 December 2024 | By Gibson Hurst
 
 In Philadelphia, the Indego Bike Share program provides vital transportation and recreational options for thousands of riders, who take an average of 3,500 trips per day. Indego offers 24/7 access to over 2,500 classic and pedal-assisted electric bikes at more than 250 stations. Last year, Indego ridership surpassed 1 million total trips for the first time and continues to show strong growth.
