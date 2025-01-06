@@ -41,7 +41,6 @@ FROM station_trip_count
 LEFT JOIN indego_stations
 ON station_trip_count.start_station = indego_stations.station_id
 ORDER BY end_count DESC;
---STATION 90018, 90010, 3000, 90007 are placeholders for something
 
 --Trip count by bike_id
 SELECT bike_id, count(trip_id)
