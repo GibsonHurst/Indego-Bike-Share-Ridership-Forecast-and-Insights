@@ -76,6 +76,8 @@ Monthly and yearly totals of the daily ridership outputs from the forecasting mo
 
 This forecasting model has a Mean Absolute Percentage Error (MAPE) of 24% on one year of unseen testing data. This means that, on a given day, the forecasted number of daily trips is typically off by 24%—either above or below the true ridership—which is considered good. We are 95% confident that the true ridership will fall within the confidence interval shown above.
 
+Performance Update (2/15/25): Q4 2024 Actual Total Trips: 299,121 versus Forecasted Total Trips: 321,167 (Over +7.4%)
+
 ### Dataset Structure
 
 Indego Trip Table – 5,963,709 instances between Q1 2018 and Q3 2024
